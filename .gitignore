@@ -1,5 +1,6 @@
 *.class
-**/.settings/
-**/.classpath
+/.settings/
+/.classpath
 target
 .target
+metastore_db/

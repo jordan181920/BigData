@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Progetto1" />
+        <module name="BigData" />
         <module name="progettoProva" />
       </profile>
     </annotationProcessing>

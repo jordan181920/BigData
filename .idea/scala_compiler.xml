@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="Progetto1,progettoProva" />
+    <profile name="Maven 1" modules="BigData,Progetto1,progettoProva" />
   </component>
 </project>
