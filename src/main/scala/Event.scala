@@ -3,6 +3,6 @@ case class Event(actor: Actor,
                  id: String,
                  org: String,
                  payload: Payload,
-                 public: Boolean,
+                 publicField: Boolean,
                  repo: String,
                  `type`: String)
